@@ -5,9 +5,6 @@ Gather domain insights or generate fake data in seconds. Meet InfoScan—your ul
 To run this in linux ( Disto like ubunut )
 run this script
 
-chmod +x required.sh
+chmod +x setup_and_run.sh
 
-sudo ./required.sh
-
-after that 
-python3 infoscan.py
+sudo ./setup_and_run.sh
