@@ -8,3 +8,6 @@ run this script
 chmod +x required.sh
 
 sudo ./required.sh
+
+after that 
+python3 infoscan.py
