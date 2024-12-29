@@ -5,6 +5,9 @@ Gather domain insights or generate fake data in seconds. Meet InfoScan—your ul
 To run this in linux ( Disto like ubunut )
 run this script
 
-chmod +x setup_and_run.sh
+python3 -m venv myenv
+source myenv/bin/activate
+pip install python-whois faker
+python3 infoscan.py
 
-sudo ./setup_and_run.sh
+# This tool can used for information gathering and for fake detail 
