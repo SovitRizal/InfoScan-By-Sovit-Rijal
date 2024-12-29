@@ -6,8 +6,12 @@ To run this in linux ( Disto like ubunut )
 run this script
 
 python3 -m venv myenv
-source myenv/bin/activate
-pip install python-whois faker
-python3 infoscan.py
 
-# This tool can used for information gathering and for fake detail 
+
+source myenv/bin/activate
+
+
+pip install python-whois faker
+
+
+python3 infoscan.py
