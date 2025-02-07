@@ -4,7 +4,7 @@ Gather domain insights or generate fake data in seconds. Meet **InfoScan**—you
 
 ## Features
 
-![InfoScan Banner](path/to/banner-image.png)  
+![InfoScan Banner](infoscan-banner.png)
 
 - Perform **domain reconnaissance** with `who.is`
 - Generate **realistic fake data** using `faker`
