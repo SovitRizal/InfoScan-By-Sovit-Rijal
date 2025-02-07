@@ -39,3 +39,5 @@ This project is **open-source**.
 Feel free to contribute by submitting pull requests or reporting issues!
 
 ## Contact
+https://linktr.ee/sovit.jung.rijal
+https://linktr.ee/sovit.jung.rijal
